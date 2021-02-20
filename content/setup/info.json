@@ -3,8 +3,8 @@
   "sitedescription": "10 minute podcast in search of Christ Jesus",
   "siteicon": "/images/uploads/008.png",
   "showmenu": true,
-  "emailsignup": true,
-  "altlayout": false,
+  "emailsignup": false,
+  "altlayout": true,
   "menu": [
     {
       "name": "The Superior Word",
