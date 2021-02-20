@@ -1,25 +1,26 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Bible in Ten",
+  "sitedescription": "10 minute podcast in search of Christ Jesus",
+  "siteicon": "/images/uploads/008.png",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": false,
+  "altlayout": true,
   "menu": [
     {
-      "name": "jake101",
+      "name": "The Superior Word",
       "position": "1",
-      "link": "https://www.jake101.com/"
+      "link": "http://www.superiorword.org/"
     },
     {
-      "name": "Nuxt.js",
+      "name": "Visual Bible",
       "position": "2",
-      "link": "https://www.nuxtjs.org/"
+      "link": "https://youtu.be/EqmHNQhdLUM"
     },
     {
-      "name": "Netlify",
+      "name": "Bible",
       "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "https://www.biblegateway.com/versions/International-Childrens-Bible-ICB/"
     }
-  ]
+  ],
+  "linkcolor": "#3e4fe0"
 }
